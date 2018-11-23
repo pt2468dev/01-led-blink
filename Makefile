@@ -21,6 +21,7 @@ INCLUDE_DIR = include
 # Source files
 SOURCE_FILES = \
     main.cpp \
+	LEDController.cpp \
 
 BUILD_DIR = _build
 BIN_DIR   = $(BUILD_DIR)/bin
